@@ -1,5 +1,5 @@
 require 'pry'
-
+# Completed by AidiRi, Chet
 class Person
     attr_reader :name, :happiness, :hygiene
     attr_accessor :bank_account
@@ -73,9 +73,7 @@ class Person
         else 
             return "blah blah blah blah blah"
         end
-    end
-
-    
+    end  
 end
 
 
